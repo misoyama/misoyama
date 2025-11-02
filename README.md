@@ -24,36 +24,25 @@ Me gusta combinar la ingeniería, la seguridad y la creatividad para **resolver 
 ### 💻 Frontend
 ![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
-![Zustand](https://img.shields.io/badge/-Zustand-1E1E1E?logo=react&logoColor=white)
-![Material UI](https://img.shields.io/badge/-Material%20UI-007FFF?logo=mui&logoColor=white)
 
 ---
 
 ### ⚙️ Backend / APIs
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-02569B?logo=api&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 
 ---
 
 ### 🧠 Data Analytics & Ciencia de Datos
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=databricks&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black)
-![Google Data Analytics](https://img.shields.io/badge/-Google%20Data%20Analytics-4285F4?logo=googleanalytics&logoColor=white)
-![Spreadsheet](https://img.shields.io/badge/-Google%20Sheets-34A853?logo=googlesheets&logoColor=white)
 ![Data Storytelling](https://img.shields.io/badge/-Data%20Storytelling-8A2BE2?logoColor=white)
 
 ---
 
 ### ☁️ Cloud Computing & Infraestructura
-![IBM Cloud](https://img.shields.io/badge/-IBM%20Cloud-1261FE?logo=ibmcloud&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white)
 ![Cloud Computing](https://img.shields.io/badge/-Cloud%20Architecture-00C7B7?logo=icloud&logoColor=white)
 ![Virtualization](https://img.shields.io/badge/-Virtualization-1E90FF?logo=vmware&logoColor=white)
 ![Network Security](https://img.shields.io/badge/-Network%20Security-2F4F4F?logo=cisco&logoColor=white)

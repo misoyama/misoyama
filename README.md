@@ -47,27 +47,48 @@ Me gusta combinar la ingeniería, la seguridad y la creatividad para **resolver 
 | Proyecto | Descripción | Tecnologías |
 |-----------|--------------|-------------|
 | [**ERP Demo**](https://github.com/misoyama/erp-demo) | Mini ERP educativo con autenticación, manejo de estado global y tablas dinámicas. | React • Zustand • Tailwind |
-| [**ClientesBD**](https://github.com/misoyama/ClientesBD) | CRUD de clientes con conexión a base de datos y validaciones básicas. | React • MySQL • Postman |
 | [**CV Zegarra**](https://github.com/misoyama/cv-zegarra) | Versión técnica de mi CV con enfoque profesional y académico. | Markdown • HTML |
-| [**Desktop Tutorial**](https://github.com/misoyama/desktop-tutorial) | Pruebas de escritorio con Python y Tkinter (fase experimental). | Python • Tkinter |
 
 ---
 
 ## 🎓 Certificaciones y formación complementaria
 
-### 🛡️ **Ciberseguridad**
-- OPSWAT Academy – *File Security Associate (OFSA)*  
-- OPSWAT Academy – *Introduction to Critical Infrastructure Protection (ICIP)*  
-- Google – *Cybersecurity Professional Certificate*  
-- IBM – *Introduction to Cybersecurity Tools & Cyber Attacks*  
-- Cisco Networking Academy – *Junior Cybersecurity Analyst*  
-- Huawei – *HCIA-Security*
+### 🛡️ **Ciberseguridad y Normas ISO**
+- **ISO 27001 Fundamentals** – Seguridad de la información  
+- **Auditor Interno en Sistemas Integrados de Gestión (ISO 9001, 14001, 45001, 19011)** – ENPP  
+- **Introduction to Critical Infrastructure Protection (ICIP)** – OPSWAT Academy  
+- **File Security Associate (OFSA)** – OPSWAT Academy  
+- **Cybersecurity Professional Certificate** – Google / IBM / ISC2  
+- **Junior Cybersecurity Analyst** – Cisco Networking Academy  
+- **HCIA-Security** – Huawei  
+- **Quantum-Safe Encryption Essentials** – IBM  
+- **NIST Cybersecurity Framework (CSF)** y **Risk Management Framework (RMF)**  
+- **OWASP & Incident Response Manuals** – Prácticas en gestión de riesgos y controles de seguridad  
 
-### 🧩 **Tecnología y Desarrollo**
-- GitHub Skills – *Introduction to React*  
-- Oracle Academy – *Database Design & SQL Fundamentals*  
-- Microsoft Learn – *Power BI Data Analyst Track*  
-- IBM SkillsBuild – *Data Analysis Foundations*
+---
+
+### ☁️ **Cloud, Redes y Tecnologías**
+- **Cloud Advanced: Architecture & Technologies** – IBM / ISC2  
+- **Network Security & TCP/IP Essentials** – Cisco Networking Academy  
+- **Cloud Computing & Virtualization** – IBM / ISC2  
+- **Linux & Bash Fundamentals** – IBM / Coursera  
+- **SQL para administración de sistemas y bases de datos** – Oracle / Coursera  
+
+---
+
+### 📊 **Análisis y Ciencia de Datos**
+- **Google Data Analytics Professional Certificate**  
+  - Data Cleaning • Ethics • Visualization • Storytelling • Business Analysis  
+- **Power BI & Tableau Fundamentals** – Microsoft / Coursera  
+- **Python & R for Data Analysis** – Coursera  
+- **Data-Driven Decision Making** – Google  
+
+---
+
+### 🧠 **Idiomas y Habilidades Blandas**
+- **Inglés (Nivel B2)** – USIL  
+- **Chino Mandarín (HSK2)** – en progreso  
+- **Liderazgo y Gestión** – Coursera / Google  
 
 ---
 

@@ -166,4 +166,5 @@ Quiero integrar mis conocimientos en **seguridad, análisis de datos y arquitect
 📧 **sandroestebanzegarra@gmail.com**  
 🔗 [LinkedIn](https://linkedin.com/in/sandrozegarrapadilla)  
 💻 [GitHub](https://github.com/misoyama)  
+💬 **WeChat:** wxid_hgscx4ug2gdv22.
 🌐 *“Aprender, construir y proteger” — mi filosofía como ingeniero en formación.*

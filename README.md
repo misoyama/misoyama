@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Sandro Esteban Zegarra Padilla
 
 🎓 **Estudiante de Ingeniería de Sistemas de Información – Universidad San Ignacio de Loyola (USIL)**  
-💻 Enfocado en **Ciberseguridad**, **Desarrollo de Sistemas Empresariales (ERP)** y **Optimización de Procesos Tecnológicos**.  
+💻 Enfocado en **Ciberseguridad** y **Optimización de Procesos Tecnológicos**.  
 🔍 Mi propósito es **aprender, crear y proteger**: construir soluciones tecnológicas seguras que generen impacto real en las personas y las organizaciones.
 
 ---
@@ -46,7 +46,7 @@ Me gusta combinar la ingeniería, la seguridad y la creatividad para **resolver 
 
 | Proyecto | Descripción | Tecnologías |
 |-----------|--------------|-------------|
-| [**ERP Demo**](https://github.com/misoyama/erp-demo) | Mini ERP educativo con autenticación, manejo de estado global y tablas dinámicas. | React • Zustand • Tailwind |
+| [**Caso telefonica**](https://coursera-assessments.s3.amazonaws.com/assessments/1736969887154/c79393ee-2970-4ddb-8f9d-d0fccea2bb4f/DataBreachInTelefonica.pdf) | Análisis de Brecha y Plan de Remediación | ISO 27001 • NIST • CSF • CVSS • Gestión de Vulnerabilidades y Threat Intelligence |
 | [**CV Zegarra**](https://github.com/misoyama/cv-zegarra) | Versión técnica de mi CV con enfoque profesional y académico. | Markdown • HTML |
 
 ---
@@ -95,8 +95,7 @@ Me gusta combinar la ingeniería, la seguridad y la creatividad para **resolver 
 ## 🧭 En qué estoy trabajando
 
 - 🔧 Desarrollando un **ERP educativo modular** con React y Zustand.  
-- 🧠 Estudiando **DevSecOps y gestión de vulnerabilidades**.  
-- 🏗️ Diseñando una **app para monitoreo de desempeño académico** en Java.  
+- 🧠 Estudiando **DevSecOps y gestión de vulnerabilidades**.    
 - 💬 Mejorando mis habilidades lingüísticas en **inglés (B2)** y **chino básico (HSK2)**.
 
 ---

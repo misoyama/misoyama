@@ -19,7 +19,7 @@ Me gusta combinar la ingeniería, la seguridad y la creatividad para **resolver 
 
 ---
 
-## 🧰 Tecnologías y herramientas
+## 🧰 Tecnologías y Herramientas
 
 ### 💻 Frontend
 ![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)
@@ -27,20 +27,76 @@ Me gusta combinar la ingeniería, la seguridad y la creatividad para **resolver 
 ![Zustand](https://img.shields.io/badge/-Zustand-1E1E1E?logo=react&logoColor=white)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-007FFF?logo=mui&logoColor=white)
 
+---
+
 ### ⚙️ Backend / APIs
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20API-02569B?logo=api&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
-![REST](https://img.shields.io/badge/-REST%20API-02569B?logo=api&logoColor=white)
-
-### 🧠 Otros
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Lingo](https://img.shields.io/badge/-LINGO%20Solver-2F2F2F?logoColor=white)
 
 ---
+
+### 🧠 Data Analytics & Ciencia de Datos
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-003B57?logo=databricks&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
+![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black)
+![Google Data Analytics](https://img.shields.io/badge/-Google%20Data%20Analytics-4285F4?logo=googleanalytics&logoColor=white)
+![Spreadsheet](https://img.shields.io/badge/-Google%20Sheets-34A853?logo=googlesheets&logoColor=white)
+![Data Storytelling](https://img.shields.io/badge/-Data%20Storytelling-8A2BE2?logoColor=white)
+
+---
+
+### ☁️ Cloud Computing & Infraestructura
+![IBM Cloud](https://img.shields.io/badge/-IBM%20Cloud-1261FE?logo=ibmcloud&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white)
+![Cloud Computing](https://img.shields.io/badge/-Cloud%20Architecture-00C7B7?logo=icloud&logoColor=white)
+![Virtualization](https://img.shields.io/badge/-Virtualization-1E90FF?logo=vmware&logoColor=white)
+![Network Security](https://img.shields.io/badge/-Network%20Security-2F4F4F?logo=cisco&logoColor=white)
+
+---
+
+### 🔐 Ciberseguridad & Seguridad de la Información
+![ISO 27001](https://img.shields.io/badge/-ISO%2027001-003366?logo=iso&logoColor=white)
+![NIST CSF](https://img.shields.io/badge/-NIST%20CSF-2E8B57?logo=securityscorecard&logoColor=white)
+![OWASP](https://img.shields.io/badge/-OWASP-000000?logo=owasp&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-008080?logo=cisco&logoColor=white)
+![Incident Response](https://img.shields.io/badge/-Incident%20Response-DC143C?logoColor=white)
+![Risk Management](https://img.shields.io/badge/-Risk%20Management-FFD700?logoColor=black)
+![Encryption](https://img.shields.io/badge/-Encryption-4682B4?logo=lets-encrypt&logoColor=white)
+![Criptografía](https://img.shields.io/badge/-Cryptography-191970?logoColor=white)
+![INFOSEC](https://img.shields.io/badge/-INFOSEC-800000?logoColor=white)
+![ISC2](https://img.shields.io/badge/-ISC2%20Cybersecurity-004B87?logo=isc2&logoColor=white)
+
+---
+
+### 🧩 Sistemas, DevOps & Entorno
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white)
+![Sistemas Operativos](https://img.shields.io/badge/-Operating%20Systems-6A5ACD?logo=windows-terminal&logoColor=white)
+
+---
+
+### 📋 Auditorías & Gestión de Calidad
+![ISO 9001](https://img.shields.io/badge/-ISO%209001-006400?logo=iso&logoColor=white)
+![ISO 14001](https://img.shields.io/badge/-ISO%2014001-228B22?logo=iso&logoColor=white)
+![ISO 45001](https://img.shields.io/badge/-ISO%2045001-B22222?logo=iso&logoColor=white)
+![ISO 19011](https://img.shields.io/badge/-ISO%2019011-4682B4?logo=iso&logoColor=white)
+![Internal Audit](https://img.shields.io/badge/-Auditorías%20Internas-8B008B?logoColor=white)
+
+---
+
+### 🌍 Idiomas
+![Español](https://img.shields.io/badge/-Español-FF0000?logoColor=white)
+![Inglés](https://img.shields.io/badge/-Inglés-1E90FF?logoColor=white)
+![Chino](https://img.shields.io/badge/-Chino-DAA520?logoColor=white)
 
 ## 🧩 Proyectos destacados
 
